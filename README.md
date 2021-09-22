@@ -19,7 +19,8 @@
 
 
 # Summary 
-The best K using KElbowVisualizer was at k = 4
+The best K using KElbowVisualizer was at k = 4.
+
 The best K accuracy = 100%
 
 # Team
